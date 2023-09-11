@@ -1,7 +1,6 @@
 # bom dia flor do dia 🌻
 
-meu nome e karina, sou biruleibe S2
-<!--
+*antadograu* 
 **antadograu/antadograu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
