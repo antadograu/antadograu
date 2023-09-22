@@ -4,4 +4,4 @@
 
  _ **antadograu** _
 
-!()[]https://media.tenor.com/xNZXMzHEsr4AAAAC/indo-ali.gif
+!()[] https://media.tenor.com/xNZXMzHEsr4AAAAC/indo-ali.gif
